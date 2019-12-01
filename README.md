@@ -1,5 +1,8 @@
 # COSE214_ALGORITHM
 
+- Pracitce\
+  강의에서 배우는 algorithm 구현
+
 제공되는 Prototype file의 함수를 채워넣어 구현하는 과제
 
 - Assignment1\
